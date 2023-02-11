@@ -1,6 +1,6 @@
-# status.log for iOS
-
 ![status.log banner](https://static.joanna.lol/banner.png)
+
+# status.log for iOS
 
 Welcome to the support page for [status.log](https://apps.apple.com/us/app/status-log/id6444921793)!
 
